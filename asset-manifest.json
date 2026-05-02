@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Liran_Barbershop/static/css/main.5605d18b.css",
+    "main.js": "/Liran_Barbershop/static/js/main.6c776d01.js",
+    "static/js/453.36ad96c6.chunk.js": "/Liran_Barbershop/static/js/453.36ad96c6.chunk.js",
+    "static/media/liran-logo.jpeg": "/Liran_Barbershop/static/media/liran-logo.08f2b61d9778b2d3e246.jpeg",
+    "static/media/liran-main.jpeg": "/Liran_Barbershop/static/media/liran-main.8e48857bcbdff8fbd2a8.jpeg",
+    "static/media/gallery-4.jpeg": "/Liran_Barbershop/static/media/gallery-4.38e0476d1c22ee36d41c.jpeg",
+    "static/media/ohad-portrait.jpeg": "/Liran_Barbershop/static/media/ohad-portrait.6d718fd3d5bf0e8e3ff1.jpeg",
+    "static/media/gallery-3.jpeg": "/Liran_Barbershop/static/media/gallery-3.943957446db447791f2e.jpeg",
+    "static/media/gallery-1.jpeg": "/Liran_Barbershop/static/media/gallery-1.9ce44024a44fb3552ba4.jpeg",
+    "static/media/gallery-6.jpeg": "/Liran_Barbershop/static/media/gallery-6.4a9182d81df864053597.jpeg",
+    "static/media/gallery-2.jpeg": "/Liran_Barbershop/static/media/gallery-2.6d96754bdea15ed6ed84.jpeg",
+    "static/media/gallery-5.jpeg": "/Liran_Barbershop/static/media/gallery-5.2d34940f0512c72a6d87.jpeg",
+    "static/media/liran-portrait.jpeg": "/Liran_Barbershop/static/media/liran-portrait.df1b4de812f19a50b7c9.jpeg",
+    "index.html": "/Liran_Barbershop/index.html",
+    "main.5605d18b.css.map": "/Liran_Barbershop/static/css/main.5605d18b.css.map",
+    "main.6c776d01.js.map": "/Liran_Barbershop/static/js/main.6c776d01.js.map",
+    "453.36ad96c6.chunk.js.map": "/Liran_Barbershop/static/js/453.36ad96c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5605d18b.css",
+    "static/js/main.6c776d01.js"
+  ]
+}
