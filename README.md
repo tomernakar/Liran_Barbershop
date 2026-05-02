@@ -1,3 +1,6 @@
 # Liran Barbershop
 
-🚀 [כניסה לאפליקציה](https://tomernakar.github.io/Liran_Barbershop)
+אפליקציית מספרה להזמנת תורים.
+
+👉 כניסה לאפליקציה:
+https://tomernakar.github.io/Liran_Barbershop
