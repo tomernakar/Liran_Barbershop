@@ -3,4 +3,4 @@
 אפליקציית מספרה להזמנת תורים.
 
 👉 כניסה לאפליקציה[:
-[https://tomernakar.github.io/Liran_Barbershop](https://tomernakar.github.io/Liran_Barbershop)](https://tomernakar.github.io/Liran_Barbershop/?v=999)
+https://tomernakar.github.io/Liran_Barbershop/?v=999
